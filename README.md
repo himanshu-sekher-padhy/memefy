@@ -2,7 +2,7 @@
 # 🖼️ Memefy – Meme Generator
 
 Memefy is a **React-based meme generator** that allows users to create and customize memes effortlessly.  
-You can choose from popular meme templates, add your own captions, and download the final meme to share anywhere.
+You can randomly generate a popular meme, add your own captions, and download the final meme to share anywhere.
 
 ---
 
