@@ -1,4 +1,3 @@
-
 # 🖼️ Memefy – Meme Generator
 
 Memefy is a **React-based meme generator** that allows users to create and customize memes effortlessly.  
